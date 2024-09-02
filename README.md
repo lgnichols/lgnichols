@@ -4,8 +4,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/lgnichols/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration]
     
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/lgnichols/msazure.git)
+  - [Create a Virtual Machine with Azure](https://github.com/lgnichols/msazure.git)
+  - [Configuring Active Directory within Azure VMs]
   
-
+  
