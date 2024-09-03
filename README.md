@@ -7,6 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/lgnichols/post-install-config)    
 - <b>Microsoft Azure</b>
   - [Create a Virtual Machine with Azure](https://github.com/lgnichols/msazure.git)
-  - [Configuring Active Directory within Azure VMs]
+  - [Configuring Active Directory within Azure VMs](https://github.com/lgnichols/configure-ad.git)
   
   
